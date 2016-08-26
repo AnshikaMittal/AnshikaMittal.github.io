@@ -140,10 +140,10 @@ nav .brand-logo img {
 
 #about{
   background-color: #fafafa;
-  float: left;
+  float: right;
   display: inline;
-  padding: 80px 0px; 
-  width: 100%;  
+  padding: 60px 0px; 
+  width: 100%; 
 }
 
 
